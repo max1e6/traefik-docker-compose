@@ -1,0 +1,14 @@
+# Docker files
+**/acme.json
+**/data/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
